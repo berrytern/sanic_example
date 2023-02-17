@@ -1,4 +1,4 @@
-## HOW CREATE REQUEST
+## HOW TO CREATE A REQUEST
 [postman](https://www.postman.com/)
 
 ## Usefull links
